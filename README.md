@@ -1,4 +1,4 @@
-# Game Programming in C++ Code
+# Game Programming in C++
 This repository contains the source code for *Game Programming in C++* by Sanjay Madhav.
 
 The source code for the chapters is released under the BSD 3-clause
